@@ -11,7 +11,7 @@ import SwiftUI
 struct IWannaCodeApp: App {
 
     @StateObject var viewRouter = ViewRouter()
-
+//GitComment
     var body: some Scene {
         WindowGroup {
             ContentView().environmentObject(viewRouter)
