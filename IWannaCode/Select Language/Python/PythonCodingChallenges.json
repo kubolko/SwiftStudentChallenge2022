@@ -1,0 +1,18 @@
+{
+        "easy": [
+            {"id":0, "text": "Write simple print() program"},
+            {"id":1, "text": "Write a program that can store people names and then display them"},
+            {"id":2, "text": "Use databases library and make use of structs"}
+        ],
+        "intermediate": [
+            {"id":0, "text": "Connect to API and decode the JSON"},
+            {"id":1, "text": "Use Python instead of Excel with Pandas library"},
+            {"id":2, "text": "Create TensorFlow machine learning model"}
+        ],
+        "hard": [
+            {"id":0, "text": "Create full-fletched backend with the Python and hosting service"},
+            {"id":1, "text": "Perfrom widespread data analysis and machine learning"}
+        ]
+}
+
+

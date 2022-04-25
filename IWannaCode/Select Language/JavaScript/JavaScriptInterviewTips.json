@@ -1,0 +1,18 @@
+{
+        "beforeYouSendCV": [
+            {"id":0, "text": "If you know one front-end framework, go for it. If you know Angular well, focus on offers with Angular, not React"},
+            {"id":1, "text": "Include link to LinkedIN in the resume"},
+            {"id":2, "text": "You can make your personal website where you will show off your skills. It would be really valuable in eyes of the recruiters"},
+            {"id":3, "text": "Link your personal GitHub to the resume"},
+        ],
+        "beforeRecruitingTask": [
+            {"id":0, "text": "Commit the code regularly. Make it look like regular day-to-day task"},
+            {"id":1, "text": "Don't take technical shortcuts. It may make you look like you will be taking then in your potential career."},
+            {"id":2, "text": "Use colors, that are aesthetic and easy to read"},
+            {"id":3, "text": "Don't forget about the accessibility!"}
+        ],
+        "beforeYourFirstDay": [
+            {"id":0, "text": "Go and meet your team in person!"},
+        ]
+}
+

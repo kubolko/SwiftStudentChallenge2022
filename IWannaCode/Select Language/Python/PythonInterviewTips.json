@@ -1,0 +1,15 @@
+{
+        "beforeYouSendCV": [
+            {"id":0, "text": "Python is the language of the libraries. You must include them to show the company if you are data analysis type developer, or backend and database one."},
+            {"id":1, "text": "Document your code well on your repository. Remember about README file and regular commiting."},
+            {"id":2, "text": "You don't have to show recruitiers all of the code you have written. Share your 3-4 best projects, it will be enough to impress them!"}
+        ],
+        "beforeRecruitingTask": [
+            {"id":0, "text": "Remember about proper debugging of your code."},
+            {"id":1, "text": "Make your variable naming clear and easy to understand"},
+            {"id":2, "text": "Take Advantage of Python’s Standard Library. It's really powerful on it's own."}
+        ],
+        "beforeYourFirstDay": [
+            {"id":0, "text": "Go out and meet your team! You will get to know great people."},
+        ]
+}

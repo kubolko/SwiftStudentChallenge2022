@@ -1,0 +1,20 @@
+{
+        "beforeYouSendCV": [
+            {"id":0, "text": "Include the libraries you know the best, then the company you are applying for will know what you specialise in and could offer you role suited best for you"},
+            {"id":1, "text": "Make your previous experience easy to understand so the recruiter will not get confused about your past"},
+            {"id":2, "text": "You will take care about the UI/UX in your future apps- let your resume represent your prototyping skills and graphic taste"},
+            {"id":3, "text": "Don't make language and orthographic errors on the resume, otherwise, you will be out after first glance 💀"},
+            {"id":4, "text": "Include just the right amount of content, so that recruiter will get enough understanding of your profile but not get bored with going through the text"}
+        ],
+        "beforeRecruitingTask": [
+            {"id":0, "text": "If the interview will be in-person dress yourself well, if it will be a videoconference, then it is better to turn off background effects on your webcam- you will show your surrounding and not look like you are trying to hide things behind you."},
+            {"id":1, "text": "During the task- commit the code regularly. Developer reviewing your job will take your behavior during the task as the normal day-to-day work behavior"},
+            {"id":2, "text": "Send the code production-ready. It means no debugging print inside functions. No commented, old code, and code formatted to Swift standards."},
+            {"id":3, "text": "If possible- use included libraires, not 3rd party ones."}
+        ],
+        "beforeYourFirstDay": [
+            {"id":0, "text": "Go and meet people in person! It will be beneficial for the team spirit and your confidence"},
+            {"id":1, "text": "Keep your desk clean- people notice that!"}
+        ]
+}
+

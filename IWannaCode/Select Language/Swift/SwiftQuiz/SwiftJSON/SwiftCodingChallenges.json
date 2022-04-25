@@ -1,0 +1,19 @@
+{
+        "easy": [
+            {"id":0, "text": "Make function, which adds two numbers but is immune for giving text or bool statements as arguments"},
+            {"id":1, "text": "Make list with things to do"},
+            {"id":2, "text": "Decode local JSON"}
+        ],
+        "intermediate": [
+            {"id":0, "text": "Make an app, which sends JSONs"},
+            {"id":1, "text": "Try to save the data on the device, for example using Core Data"},
+            {"id":2, "text": "Make custom view routing, try not to use the navigation link. Also then you can try to implement custom, beutiful animations"}
+        ],
+        "hard": [
+            {"id":0, "text": "Try to connect with webSocket API and make for example- stock price app"},
+            {"id":1, "text": "Use authentication in your app."},
+            {"id": 2, "text": "Make custom machine learing model and use it in your app"},
+            {"id": 3, "text": "Try to implement custom algorithm."}
+        ]
+}
+

@@ -1,0 +1,38 @@
+[
+    {
+        "headline":"Type of language:",
+        "text":"Compiled (LLVM Compilator)"
+    },
+    {
+        "headline":"Is open source?",
+        "text":"Yes"
+    },
+    {
+        "headline":"Purpose of the language?",
+        "text":"General-purpose"
+    },
+    {
+        "headline":"When it was created?",
+        "text":"2014"
+    },
+    {
+        "headline":"Value naming convention?",
+        "text":"Camel case 🐫"
+    },
+    {
+        "headline":"Type naming convention?",
+        "text":"Upper Case"
+    },
+    {
+        "headline":"Does it support generics?",
+        "text":"Yes ☑️"
+    },
+    {
+        "headline":"Does it support server side?",
+        "text":"Yes ☑️"
+    },
+    {
+        "headline":"Which other languages does it work with?",
+        "text":"Objective-C"
+    }
+]

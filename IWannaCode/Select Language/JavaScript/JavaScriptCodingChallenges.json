@@ -1,0 +1,17 @@
+{
+        "easy": [
+            {"id":0, "text": "Write simple HTML website"},
+            {"id":1, "text": "Print a table containing multiplication tables"},
+        ],
+        "intermediate": [
+            {"id":0, "text": "Connect to API and decode the JSON in your website"},
+            {"id":1, "text": "Make full web app"},
+            {"id":2, "text": "Make responsive website"}
+        ],
+        "hard": [
+            {"id":0, "text": "Create full website with cookies and ads."},
+            {"id":1, "text": "Try to make a mobile app using React Native"}
+        ]
+}
+
+

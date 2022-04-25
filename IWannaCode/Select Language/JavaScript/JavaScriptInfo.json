@@ -1,0 +1,26 @@
+[
+    {
+        "headline":"Type of language:",
+        "text":"Compiled"
+    },
+    {
+        "headline":"How many websites use JS?",
+        "text":"Around 97%"
+    },
+    {
+        "headline":"Purpose of the language?",
+        "text":"Web development"
+    },
+    {
+        "headline":"Is it the same as Java?",
+        "text":"Although Java and JavaScript are similar in name, syntax, and respective standard libraries, the two languages are distinct and differ greatly in design."
+    },
+    {
+        "headline":"Is it popular?",
+        "text":"JavaScript is the world’s most popular programming language, so yes."
+    },
+    {
+        "headline":"Is it only for web development?",
+        "text":"Let’s have a look at all of the cool things that YOU can do with JavaScript: \n -Animate Websites \n -Make Phone Apps \n -Make Serverless Websites \n -Make Games \n -Flying Drones"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "headline":"Type of language:",
+        "text":"Interpreted"
+    },
+    {
+        "headline":"Is open source?",
+        "text":"Yes"
+    },
+    {
+        "headline":"Purpose of the language?",
+        "text":"General-purpose"
+    },
+    {
+        "headline":"Does the name come from the animal?",
+        "text":"No, it comes from the British surreal sketch comedy series 'Monty Python's Flying Circus'"
+    },
+    {
+        "headline":"Current newest version?",
+        "text":"3.10"
+    },
+    {
+        "headline":"Does it have structs?",
+        "text":"Nope"
+    },
+    {
+        "headline":"Does it need semicolons after each line?",
+        "text":"Nope, but remember about the intents!"
+    },
+    {
+        "headline":"Does it need semicolons after each line?",
+        "text":"Nope, but remember about the intents!"
+    },
+]
