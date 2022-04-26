@@ -48,6 +48,8 @@ class SwiftGameManagerVM: ObservableObject {
             } else {
                 model.quizModel.optionsList[index].isMatched = false
                 model.quizModel.optionsList[index].isSelected = true
+                //MARK: Ticket 7
+//                model.quizWinningStatus = false
             }
 
         }

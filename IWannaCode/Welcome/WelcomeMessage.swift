@@ -47,6 +47,7 @@ struct WelcomeMessage: View {
             }
             HStack() {
                 Spacer()
+                //MARK: Ticket 2- dodać do let's go coś więcej
                 Text("Let’s Go!").font(.headline)
                     .bold()
                     .padding()

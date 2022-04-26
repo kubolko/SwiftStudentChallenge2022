@@ -11,12 +11,17 @@ struct WelcomeView: View {
 
     @ObservedObject var viewModel: ViewModel
     @EnvironmentObject var viewRouter: ViewRouter
+    
     @State private var isShowing = true
 
     var body: some View {
         if isShowing {
             ZStack() {
-         //       BackgroundSender()
+           //MARK: Ticket 1
+                LinearGradient(gradient: Gradient(colors: viewModel.stringToColor(color: ["FBAF40", "FF3527"])), startPoint: .top, endPoint: .bottom)
+                    .edgesIgnoringSafeArea(.all)
+                    
+                //
                 Button {
                     withAnimation {
                         isShowing.toggle()

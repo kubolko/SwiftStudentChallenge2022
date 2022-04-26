@@ -27,6 +27,7 @@ struct JavaScriptQuizView: View {
 
             } else {
                 VStack {
+                    //MARK: Ticket 9- wywalić
                     ZStack() {
                         // MARK: Back Button
                         HStack() {

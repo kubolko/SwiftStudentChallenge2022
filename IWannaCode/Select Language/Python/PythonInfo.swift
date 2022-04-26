@@ -45,6 +45,7 @@ struct PythonInfo: View {
                             .resizable()
                             .scaledToFit()
                             .frame(width: UIScreen.screenWidth/4)
+                            //MARK: Ticket 3- dodać padding
 
                     }
                 }

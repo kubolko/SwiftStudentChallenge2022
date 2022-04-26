@@ -48,6 +48,7 @@ struct PythonInterviewTips: View {
                     .font(Font.custom(language.font, size: 34))
 
                 ScrollView(.vertical) {
+                    //MARK: Ticket 4- dodać     .font(Font.custom(language.font, size: 28)) dla 3 linijek
                     Text("Before you send your Resume")
                     ForEach(viewModel.pythonInterviewTips.beforeYouSendCV) { i in
                         VStack() {

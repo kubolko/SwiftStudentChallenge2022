@@ -27,6 +27,7 @@ struct PythonQuizView: View {
 
             } else {
                 VStack {
+                    //MARK: Ticket 10- wywalić
                     ZStack() {
                         // MARK: Back Button
                         HStack() {

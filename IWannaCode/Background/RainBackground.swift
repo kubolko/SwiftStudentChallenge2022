@@ -77,6 +77,7 @@ struct EmitterView: View {
     var scaleSpeed: CGFloat = 0
 
     var speed = 50.0
+    //MARK: Ticket 11- zmienić na 15
     var speedRange = 0.0
 
     var animation = Animation.linear(duration: 1).repeatForever(autoreverses: false)
