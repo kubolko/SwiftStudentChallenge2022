@@ -25,6 +25,8 @@ struct LanguageView: View {
                     .frame(height: UIScreen.screenHeight*0.125)
                 Text("Choose your hero")
                     .font(Font(UIFont.systemFont(ofSize: 40, weight: UIFont.Weight.bold)))
+                //MARK: Ticket 13- dodać
+              //      .foregroundColor(Color(hex: language.fontColor))
                 Spacer()
                 Image(language.name)
                     .resizable()

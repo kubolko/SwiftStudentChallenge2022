@@ -24,7 +24,6 @@ struct PythonCodingChallenge: View {
                 ZStack() {
                     // MARK: Back Button
                     HStack() {
-
                         Button {
                             withAnimation {
                                 viewRouter.currentPage = .pythonMenu
@@ -62,6 +61,7 @@ struct PythonCodingChallenge: View {
                                 .frame(width: UIScreen.screenWidth/5, height: UIScreen.screenWidth/5)
                                 .cornerRadius(20)
                             Text("Easy")
+                            //MARK: Ticket 5- Dodać fill. white i .red do innych
                         }
                         ScrollView(.vertical) {
                         ForEach(viewModel.pythonCodingChallenges.easy) {i in

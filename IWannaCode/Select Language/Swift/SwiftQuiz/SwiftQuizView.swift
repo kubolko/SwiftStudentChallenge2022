@@ -27,6 +27,7 @@ struct SwiftQuizView: View {
             } else {
                 VStack {
                     ZStack() {
+                        //MARK: Ticket 8- wywalić
                         // MARK: Back Button
                         HStack() {
 

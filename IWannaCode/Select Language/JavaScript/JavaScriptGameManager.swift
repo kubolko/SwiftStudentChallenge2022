@@ -48,6 +48,8 @@ class JavaScriptGameManagerVM: ObservableObject {
             } else {
                 model.quizModel.optionsList[index].isMatched = false
                 model.quizModel.optionsList[index].isSelected = true
+                //MARK: Ticket 6
+//                model.quizWinningStatus = false
             }
 
         }
